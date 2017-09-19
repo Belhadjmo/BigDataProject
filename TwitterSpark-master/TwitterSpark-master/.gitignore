@@ -1,0 +1,42 @@
+target/
+!.mvn/wrapper/maven-wrapper.jar
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### NetBeans ###
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
+.DS_Store
+data/.DS_Store
+data/input/.DS_Store
+data/input/trends.txt
+data/input/tweets-test.json
+data/input/tweets.json
+data/output/
+spark-warehouse/
+src/.DS_Store
+src/main/.DS_Store
+src/main/resources/static/
+src/main/resources/templates/
+src/main/webapp/.DS_Store
+
+node_modules
+.tmp
+app.yaml
+
